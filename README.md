@@ -1,11 +1,11 @@
-### Goal（目的）
+### 目的 Goal
 
-自己写的webpack简易版，目的让自己了解打包工具的写法，知其所以然。
+- 自己写的webpack简易版，目的让自己了解打包工具的写法，知其所以然。</br>
 It's an simple implemention webpack which help me understand the principle of webpack.
 
+</br>
 
-
-### 迭代计划
+### 迭代计划 Sprint Plan
 
 - 2.0.1 增加development 模式，写一个HRM插件 （add development mod and implement a HRM plugin）
 
